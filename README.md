@@ -1,6 +1,6 @@
 إليك ملف `README.md` منسق بشكل كامل ومرتب لتشغيل تطبيق الحاسبة باستخدام React في صفحة واحدة:
 
-```markdown
+
 # Simple Calculator App
 
 This is a simple calculator app built with React. It allows you to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It also provides functionality to reset the input and result fields.
@@ -106,12 +106,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contributing:
 Feel free to fork the repository, submit pull requests, or open issues if you find any bugs or have suggestions for improvements.
 
-```
-
-### التوضيح:
-- **Features:** توضح الخصائص التي يدعمها التطبيق.
-- **Prerequisites:** تشير إلى البرامج التي يجب أن تكون مثبتة (Node.js و npm).
-- **Steps to Run the Application Locally:** تشرح الخطوات اللازمة لتشغيل التطبيق محليًا (استنساخ المشروع، تثبيت الحزم، وتشغيله).
 - **Application Overview:** توضح تفاصيل التطبيق والوظائف التي يقدمها.
 - **Project Structure:** يقدم نظرة عامة على هيكل المشروع.
 - **Notes:** يوفر معلومات إضافية في حالة وجود مشاكل مع الحزم أو بناء المشروع.
