@@ -1,3 +1,7 @@
-let nudjfv = "rvfd"
+import React from 'react'
 
-console.log(nudjfv)
+export default function rwg() {
+  return (
+    <div>rwg</div>
+  )
+}
